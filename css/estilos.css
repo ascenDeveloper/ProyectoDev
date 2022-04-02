@@ -3,3 +3,9 @@ body {
   text-align: center;
   font-family: "Arial";
 }
+
+#container {
+  border: 1px solid grey;
+  padding: 0 1rem;
+  margin: 0 20rem;
+}
